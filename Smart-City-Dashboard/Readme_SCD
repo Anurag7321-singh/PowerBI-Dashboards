@@ -1,0 +1,13 @@
+# Smart City Dashboard - Power BI Project
+
+This dashboard analyzes and visualizes Smart City KPIs like streetlight usage, waste management, and pollution levels.
+
+## 🧠 Features:
+- Pollution trends with AQI data
+- Garbage collection status (actual vs target)
+- Smart lighting consumption across zones
+- Geo Map visualization of city zones
+
+## 🛠 Tools Used:
+- Power BI Desktop
+- DAX & Power Query
