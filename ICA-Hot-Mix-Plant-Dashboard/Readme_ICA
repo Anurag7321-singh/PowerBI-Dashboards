@@ -1,0 +1,22 @@
+# Bitumen Hot Mix Plant Dashboard - ICA | Power BI Project
+
+This Power BI dashboard tracks operational metrics of the Bitumen Hot Mix Plant at Indra Construction and Associates (ICA).
+
+## 🧠 Features:
+- Daily production tracking
+- Bitumen temperature monitoring
+- Fuel consumption trends
+- Load dispatch and vehicle count
+- Shift-wise operational performance
+
+## 📁 Files:
+- `HotMixPlantDashboard.pbix`: Power BI file
+- `images/`: Plant overview visuals
+
+## 🏗 Company:
+**Indra Construction and Associates** – Specializing in road construction with hot mix asphalt plants, paver machines, and transport fleet.
+
+## 🛠 Tools Used:
+- Power BI
+- DAX, Time Intelligence
+- Excel CSV source
