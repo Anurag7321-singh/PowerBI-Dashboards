@@ -26,7 +26,7 @@ To support plant managers and supervisors in tracking production goals, optimizi
 ---
 
 ## 📸 Screenshot:
-![ICA-Hot-Mix-Plant-Dashboard](./ICA_Dash_IMAGE.png)
+![ICA-Hot-Mix-Plant-Dashboard](./ICA_DASH_IMAGE.png)
 
 ---
 
