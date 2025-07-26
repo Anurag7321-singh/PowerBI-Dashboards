@@ -25,7 +25,7 @@ A real-time plant operation tracker for Indra Construction and Associates, focus
 - Vehicle dispatch insights
 - Shift-wise load performance reporting
 
-📁 [ICA Bitumen Plant Dashboard Folder](./ICA-Hot-Mix-Plant-Dashboard) *(replace with actual folder if different)*
+📁 [ICA Bitumen Plant Dashboard Folder](./ICA-Hot-Mix-Plant-Dashboard) 
 
 ---
 
